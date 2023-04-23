@@ -4,7 +4,7 @@ This is a modification to the Ajax Type Ahead project in the [JavaScript 30 cour
 
 ## Project Details
 
-### View My Project:
+### View My Project: [https://ll-zerr.github.io/city-state-search/](https://ll-zerr.github.io/city-state-search/)
 
 ![Screenshot](img/smartmockups_cos-search.jpg)
 
